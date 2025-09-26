@@ -1,0 +1,10 @@
+--- 
+id: RunningAScript_Video
+name: Running A Script
+summary: How to run a script in Remix
+level: 1
+tags: 
+  - Remix
+steps:
+  - name: Running a Script
+    path: run_script
