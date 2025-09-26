@@ -1,0 +1,10 @@
+--- 
+id: runascript
+name: Running a script
+summary: How to run a script
+level: 1
+tags: 
+  - Remix
+steps:
+  - name: Run a Script
+    path: script_run
